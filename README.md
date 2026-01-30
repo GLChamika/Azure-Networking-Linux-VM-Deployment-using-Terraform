@@ -27,7 +27,7 @@ Resources created by this project:
 - Public IP (Static)  
 - Network Interface  
 - Linux VM (Ubuntu 22.04 LTS)  
-- SSH public key is stored in Azure (best practice is to use Azure AD login or store SSH keys in a centralized service such as Key Vault 
+- SSH public key is stored in Azure (best practice is to use Azure AD login or store SSH keys in a centralized service such as Key Vault)
 
 Note: Terraform state is stored remotely in **Azure Blob Storage** using an Azure backend configuration.
 
